@@ -48,6 +48,7 @@ In this file i have imported packages like gorm, pkg/config.
 This file helps in creating database and connecting with Mysql.
 
 ***MAIN.GO FILE***
+
 In this file i have imported packages like log, net/http, gorilla/mux, gorm/dialects/mysql, pkg routes.
 This file helps in connecting with routers.
 
