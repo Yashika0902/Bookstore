@@ -1,4 +1,5 @@
 **INTRODUCTION**
+
 Built a bookstore management system using GoLang, CRUD API’s integrated with  MySQL Database, we’ll be using the gorm package to interact with our database. We used JSON marshalling to convert the database into json file and gorilla for routing . 
 The project diagram are there for further clear explanations
 
