@@ -52,3 +52,4 @@ This file helps in creating database and connecting with Mysql.
 In this file i have imported packages like log, net/http, gorilla/mux, gorm/dialects/mysql, pkg routes.
 This file helps in connecting with routers.
 
+Postman is used to test the API's call.
