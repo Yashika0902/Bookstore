@@ -28,18 +28,22 @@ $go mod init go-bookstore
 *STAGE -II*
 
 ***ROUTES.GO FILE***
+
 I have imported some packages i.e. gorilla/mux and pkg/controllers
 This helps in getting the controller file and other file from that folder
 Inside this we have a function ‘register bookstore’ this have all the routes and help in getting the controller request like GET, UPDATE AND DELETE by using GET or POST method.
 
 ***CONFIG.GO FILE***
+
 In this file i have imported packages like gorm and MySQL which will help in connecting with the database.
 
 ***UTILS.GO FILE***
+
 In this file i have imported packages like ioutils, encoding/json, net/http.
 This will help in parsing the file into json for proper connection with the database.
 
 ***BOOK.GO FILE***
+
 In this file i have imported packages like gorm, pkg/config.
 This file helps in creating database and connecting with Mysql.
 
